@@ -1,3 +1,8 @@
 # spring-app
 
-Spring Rest app with Eureka service
+Java 8
+Spring Boot
+Spring MVC
+Spring Eureka
+Spring JPA with Mongo
+Junit & Mockito
